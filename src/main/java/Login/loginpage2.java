@@ -6,6 +6,7 @@ public class loginpage2 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Login functionality is working fine");
+		System.out.println("Login functionality is working fine");
 		
 
 	}
